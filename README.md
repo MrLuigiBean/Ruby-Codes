@@ -2,7 +2,7 @@
 Little bits of Ruby code that are held together by string! :D
 
 # Encryption and Decryption
-FBECV1 = Forwards Backwards Encryption Code
+FBECV1 = Forwards Backwards Encryption Code \n
 FBECV2 = Forwards Backwards Encryption Code Ver 2.0(NEGATIVE NUMBERS)(output string)(repitition)
 FBEC = Forwards Backwards Encryption Code (SMUSHED)(combination)
 FBDCV1 = Forwards Backwards Decryption Code
